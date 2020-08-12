@@ -19,13 +19,13 @@ O HTML tem como proposta ser a linguagem universal dos mais diversos meios de ac
 
 Outra vantagem do HTML 5 é sua excelente integração com o CSS 3, que é a última versão do CSS. Capaz de construir animações tanto em 2D quanto em 3D, com efeitos de rotação, movimento e transição, o CSS 3, unido ao HTML 5, facilita a criação de sites e aplicativos mais complexos e esteticamente melhores.
 
-Uma linguagem de marcação como HTML também fornece maneiras de especificar estilo. Por exemplo, você pode usar a tag <b> para fazer o texto em negrito e pode especificar a cor de fundo na sua tag <body>
+Uma linguagem de marcação como HTML também fornece maneiras de especificar estilo. Por exemplo, você pode usar a tag < > para fazer o texto em negrito e pode especificar a cor de fundo na sua tag < >
 
 
 ### CSS: :computer:
 
 
-O objetivo da CSS é ser usada para definir estilos para os seus documentos, incluindo o design, layout e as variações na exibição para diferentes dispositivos e tamanho de tela. Você pode colocar suas CSS dentro da tag <head> do seu documento com uma folha de estilos incorporada ou anexar uma folha de estilos externa. Para linkar uma folha de estilos externa para o seu documento é simples e você pode adicionar um link para a sua folha de estilos na tag <head> de seu documento.
+O objetivo da CSS é ser usada para definir estilos para os seus documentos, incluindo o design, layout e as variações na exibição para diferentes dispositivos e tamanho de tela. Você pode colocar suas CSS dentro da tag < > do seu documento com uma folha de estilos incorporada ou anexar uma folha de estilos externa. Para linkar uma folha de estilos externa para o seu documento é simples e você pode adicionar um link para a sua folha de estilos na tag < > de seu documento.
 
 Uma folha de estilo externa tem muitas vantagens como ajudar a evitar código repetido, facilitar a manutenção e permitir fazer mudança no site inteiro alterando apenas um arquivo.
 Usando a CSS, você armazena as informações de estilo em arquivos comuns que todas as páginas compartilham. Por exemplo, quando você linka vários documentos para a mesma folha de estilo que define a cor dos cabeçalhos h2, você pode aplicar o estilo para tags de cabeçalho h2 globalmente alterando apenas um atributo CSS.
