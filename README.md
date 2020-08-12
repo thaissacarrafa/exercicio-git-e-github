@@ -1,7 +1,4 @@
-# exercicio-git-e-github
-
-### HTML x CSS: afinal, quais são as diferenças?
-
+# HTML x CSS: afinal, quais são as diferenças?
 
 
  A internet já faz parte do cotidiano da maioria das pessoas e a divisão entre mundo real e o virtual é cada dia menor. Hoje, a facilidade de acesso permite que qualquer pessoa gere conteúdo. Por isso, tão importante quanto ter um site ou um blog na internet, é ter essas páginas construídas de forma organizada e atrativa, para garantir que a imagem da marca fique consolidada e seja respeitada na web. As linguagens como HTML e CSS podem favorecer esses objetivos. Mas você conhece a diferenças entre essas duas linguagens de programação? Leia todo esse artigo, conheça quais são e fique por dentro do assunto.
