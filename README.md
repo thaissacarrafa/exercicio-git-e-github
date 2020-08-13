@@ -17,7 +17,6 @@ Essa linguagem é responsável pela aparência da página, como o posicionamento
 <p>
 ### HTML: :computer:
 
-<img src= "https://github.com/thaissacarrafa/exercicio-git-e-github/blob/master/img/html.jpg" width="50%">
 
 O HTML tem como proposta ser a linguagem universal dos mais diversos meios de acesso, a fim de tornar possível a distribuição de informações de maneira global. A versão mais atual, o HTML 5, já é uma das plataformas mais usadas na web, pois oferece recursos inovadores, como a possibilidade de atuação off-line, armazenamento de dados em dispositivos clientes, conectividade mais eficiente e mais facilidade para trabalhar com recursos multimídia.
 
@@ -28,7 +27,6 @@ Uma linguagem de marcação como HTML também fornece maneiras de especificar es
 <p>
 ### CSS: :computer:
 
-<img src= "https://github.com/thaissacarrafa/exercicio-git-e-github/blob/master/img/css.jpeg" width="50%">
 
 O objetivo da CSS é ser usada para definir estilos para os seus documentos, incluindo o design, layout e as variações na exibição para diferentes dispositivos e tamanho de tela. Você pode colocar suas CSS dentro da tag < > do seu documento com uma folha de estilos incorporada ou anexar uma folha de estilos externa. Para linkar uma folha de estilos externa para o seu documento é simples e você pode adicionar um link para a sua folha de estilos na tag < > de seu documento.
 
@@ -40,4 +38,3 @@ Quando um usuário exibe uma página web, o navegador carrega as informações d
 
 Fonte: https://www.isbrasil.info/blog/html-x-css-afinal-quais-sao-as-diferencas.html
 
-<img src= "https://github.com/thaissacarrafa/exercicio-git-e-github/blob/master/img/thumb-65536-mulheresnatecnologia-resized.jpg" width="50%">
