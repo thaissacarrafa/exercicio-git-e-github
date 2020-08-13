@@ -15,7 +15,7 @@ Já o CSS (Cascading Style Sheets) significa Folhas de Estilo em Cascata é uma 
 Essa linguagem é responsável pela aparência da página, como o posicionamento dos elementos, cores e tudo que torne o site mais visualmente agradável para a navegação. Para ter conhecimentos em CSS o web designer precisa primeiramente conhecer o HTML profundamente, senão ele não entenderia conceitos de como aplicar o estilo com o CSS.
 
 <p>
-### HTML: :computer:
+###HTML: :computer:
 
 
 O HTML tem como proposta ser a linguagem universal dos mais diversos meios de acesso, a fim de tornar possível a distribuição de informações de maneira global. A versão mais atual, o HTML 5, já é uma das plataformas mais usadas na web, pois oferece recursos inovadores, como a possibilidade de atuação off-line, armazenamento de dados em dispositivos clientes, conectividade mais eficiente e mais facilidade para trabalhar com recursos multimídia.
@@ -25,7 +25,7 @@ Outra vantagem do HTML 5 é sua excelente integração com o CSS 3, que é a úl
 Uma linguagem de marcação como HTML também fornece maneiras de especificar estilo. Por exemplo, você pode usar a tag < > para fazer o texto em negrito e pode especificar a cor de fundo na sua tag < >
 
 <p>
-### CSS: :computer:
+###CSS: :computer:
 
 
 O objetivo da CSS é ser usada para definir estilos para os seus documentos, incluindo o design, layout e as variações na exibição para diferentes dispositivos e tamanho de tela. Você pode colocar suas CSS dentro da tag < > do seu documento com uma folha de estilos incorporada ou anexar uma folha de estilos externa. Para linkar uma folha de estilos externa para o seu documento é simples e você pode adicionar um link para a sua folha de estilos na tag < > de seu documento.
